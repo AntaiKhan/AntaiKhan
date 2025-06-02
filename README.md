@@ -7,9 +7,9 @@ I'm a Technical Support Engineer transitioning into Cloud/DevOps Engineering. I 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying Cloud Engineering at AltSchool Africa [School of Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m learning Python at the moment.
-- 😊 I’m looking for help with internships and entry-level opportunities.
+- 💡 Fun fact: I'm a graduate of Cloud Engineering at AltSchool Africa [School of Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024. I also love the game of Football. 
+- 🌱 I’m always learning something.
+- 😊 I’m looking for opportunities to solve problems and grow as a DevOps engineer.
 - 💼 Job interests: Cloud Engineer, DevOps Engineer.
 - 📫 You can contact me by emailing aokonotoyo@yahoo.com.
 
